@@ -1,4 +1,4 @@
-# Udacity-A-B-Testing_-Notes-and-Final-Project
+# Udacity-A-B-Testing_Notes-and-Final-Project
   It includes my hand-written note while taken the Udacity A/B testing Course and the report of final project together with the Excel that generated those numeric results 
 
 1. Project
